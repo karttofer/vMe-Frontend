@@ -1,5 +1,5 @@
 // Dependencies
-import { createBrowserRouter } from 'react-router-dom'
+import {createBrowserRouter} from 'react-router-dom'
 
 const router = createBrowserRouter([
   {
@@ -39,4 +39,4 @@ const router = createBrowserRouter([
     ],
   },
 ])
-export { router }
+export {router}
